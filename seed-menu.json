@@ -1,0 +1,492 @@
+[
+ {
+  "name": "Paneer Tikka",
+  "price": 229,
+  "veg": true,
+  "category": "Starters",
+  "emoji": "🥟"
+ },
+ {
+  "name": "Veg Spring Rolls",
+  "price": 149,
+  "veg": true,
+  "category": "Starters",
+  "emoji": "🥟"
+ },
+ {
+  "name": "Hara Bhara Kabab",
+  "price": 179,
+  "veg": true,
+  "category": "Starters",
+  "emoji": "🥟"
+ },
+ {
+  "name": "Chicken Tikka",
+  "price": 279,
+  "veg": false,
+  "category": "Starters",
+  "emoji": "🥟"
+ },
+ {
+  "name": "Crispy Corn",
+  "price": 169,
+  "veg": true,
+  "category": "Starters",
+  "emoji": "🥟"
+ },
+ {
+  "name": "Margherita Pizza",
+  "price": 249,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Farmhouse Pizza",
+  "price": 349,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Paneer Tikka Pizza",
+  "price": 369,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Veg Supreme Pizza",
+  "price": 359,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Cheese Burst Pizza",
+  "price": 399,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Mushroom Corn Pizza",
+  "price": 329,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Peri-Peri Paneer Pizza",
+  "price": 379,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Mexican Green Wave Pizza",
+  "price": 339,
+  "veg": true,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Chicken Tikka Pizza",
+  "price": 399,
+  "veg": false,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Pepperoni Pizza",
+  "price": 429,
+  "veg": false,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "BBQ Chicken Pizza",
+  "price": 419,
+  "veg": false,
+  "category": "Pizza",
+  "emoji": "🍕"
+ },
+ {
+  "name": "Aloo Tikki Burger",
+  "price": 99,
+  "veg": true,
+  "category": "Burgers",
+  "emoji": "🍔"
+ },
+ {
+  "name": "Veg Cheese Burger",
+  "price": 129,
+  "veg": true,
+  "category": "Burgers",
+  "emoji": "🍔"
+ },
+ {
+  "name": "Paneer Zinger Burger",
+  "price": 169,
+  "veg": true,
+  "category": "Burgers",
+  "emoji": "🍔"
+ },
+ {
+  "name": "Crispy Chicken Burger",
+  "price": 179,
+  "veg": false,
+  "category": "Burgers",
+  "emoji": "🍔"
+ },
+ {
+  "name": "Veg Grilled Sandwich",
+  "price": 99,
+  "veg": true,
+  "category": "Sandwiches",
+  "emoji": "🥪"
+ },
+ {
+  "name": "Paneer Grilled Sandwich",
+  "price": 149,
+  "veg": true,
+  "category": "Sandwiches",
+  "emoji": "🥪"
+ },
+ {
+  "name": "Bombay Masala Sandwich",
+  "price": 119,
+  "veg": true,
+  "category": "Sandwiches",
+  "emoji": "🥪"
+ },
+ {
+  "name": "Chicken Club Sandwich",
+  "price": 189,
+  "veg": false,
+  "category": "Sandwiches",
+  "emoji": "🥪"
+ },
+ {
+  "name": "Khaman Dhokla",
+  "price": 70,
+  "veg": true,
+  "category": "Gujarati",
+  "emoji": "🍛"
+ },
+ {
+  "name": "Fafda Jalebi",
+  "price": 90,
+  "veg": true,
+  "category": "Gujarati",
+  "emoji": "🍛"
+ },
+ {
+  "name": "Thepla with Chunda",
+  "price": 110,
+  "veg": true,
+  "category": "Gujarati",
+  "emoji": "🍛"
+ },
+ {
+  "name": "Dabeli",
+  "price": 50,
+  "veg": true,
+  "category": "Gujarati",
+  "emoji": "🍛"
+ },
+ {
+  "name": "Undhiyu Thali",
+  "price": 260,
+  "veg": true,
+  "category": "Gujarati",
+  "emoji": "🍛"
+ },
+ {
+  "name": "Paneer Butter Masala",
+  "price": 259,
+  "veg": true,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Dal Makhani",
+  "price": 219,
+  "veg": true,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Kadai Paneer",
+  "price": 249,
+  "veg": true,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Mix Veg",
+  "price": 199,
+  "veg": true,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Butter Chicken",
+  "price": 319,
+  "veg": false,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Chicken Curry",
+  "price": 289,
+  "veg": false,
+  "category": "Indian Mains",
+  "emoji": "🍲"
+ },
+ {
+  "name": "Butter Naan",
+  "price": 45,
+  "veg": true,
+  "category": "Breads",
+  "emoji": "🫓"
+ },
+ {
+  "name": "Garlic Naan",
+  "price": 59,
+  "veg": true,
+  "category": "Breads",
+  "emoji": "🫓"
+ },
+ {
+  "name": "Tandoori Roti",
+  "price": 25,
+  "veg": true,
+  "category": "Breads",
+  "emoji": "🫓"
+ },
+ {
+  "name": "Lachha Paratha",
+  "price": 50,
+  "veg": true,
+  "category": "Breads",
+  "emoji": "🫓"
+ },
+ {
+  "name": "Veg Biryani",
+  "price": 229,
+  "veg": true,
+  "category": "Rice",
+  "emoji": "🍚"
+ },
+ {
+  "name": "Jeera Rice",
+  "price": 129,
+  "veg": true,
+  "category": "Rice",
+  "emoji": "🍚"
+ },
+ {
+  "name": "Paneer Biryani",
+  "price": 269,
+  "veg": true,
+  "category": "Rice",
+  "emoji": "🍚"
+ },
+ {
+  "name": "Chicken Biryani",
+  "price": 299,
+  "veg": false,
+  "category": "Rice",
+  "emoji": "🍚"
+ },
+ {
+  "name": "Masala Dosa",
+  "price": 129,
+  "veg": true,
+  "category": "South Indian",
+  "emoji": "🥞"
+ },
+ {
+  "name": "Idli Sambar",
+  "price": 99,
+  "veg": true,
+  "category": "South Indian",
+  "emoji": "🥞"
+ },
+ {
+  "name": "Medu Vada",
+  "price": 99,
+  "veg": true,
+  "category": "South Indian",
+  "emoji": "🥞"
+ },
+ {
+  "name": "Mysore Masala Dosa",
+  "price": 149,
+  "veg": true,
+  "category": "South Indian",
+  "emoji": "🥞"
+ },
+ {
+  "name": "Veg Hakka Noodles",
+  "price": 169,
+  "veg": true,
+  "category": "Chinese",
+  "emoji": "🥡"
+ },
+ {
+  "name": "Veg Manchurian",
+  "price": 179,
+  "veg": true,
+  "category": "Chinese",
+  "emoji": "🥡"
+ },
+ {
+  "name": "Schezwan Fried Rice",
+  "price": 189,
+  "veg": true,
+  "category": "Chinese",
+  "emoji": "🥡"
+ },
+ {
+  "name": "Chilli Chicken",
+  "price": 249,
+  "veg": false,
+  "category": "Chinese",
+  "emoji": "🥡"
+ },
+ {
+  "name": "Cappuccino",
+  "price": 160,
+  "veg": true,
+  "category": "Coffee",
+  "emoji": "☕"
+ },
+ {
+  "name": "Cafe Latte",
+  "price": 170,
+  "veg": true,
+  "category": "Coffee",
+  "emoji": "☕"
+ },
+ {
+  "name": "Cold Coffee",
+  "price": 190,
+  "veg": true,
+  "category": "Coffee",
+  "emoji": "☕"
+ },
+ {
+  "name": "Filter Coffee",
+  "price": 90,
+  "veg": true,
+  "category": "Coffee",
+  "emoji": "☕"
+ },
+ {
+  "name": "Masala Chai",
+  "price": 40,
+  "veg": true,
+  "category": "Tea",
+  "emoji": "🍵"
+ },
+ {
+  "name": "Ginger Tea",
+  "price": 45,
+  "veg": true,
+  "category": "Tea",
+  "emoji": "🍵"
+ },
+ {
+  "name": "Green Tea",
+  "price": 70,
+  "veg": true,
+  "category": "Tea",
+  "emoji": "🍵"
+ },
+ {
+  "name": "Coca-Cola",
+  "price": 50,
+  "veg": true,
+  "category": "Cold Drinks",
+  "emoji": "🥤"
+ },
+ {
+  "name": "Fresh Lime Soda",
+  "price": 80,
+  "veg": true,
+  "category": "Cold Drinks",
+  "emoji": "🥤"
+ },
+ {
+  "name": "Virgin Mojito",
+  "price": 150,
+  "veg": true,
+  "category": "Cold Drinks",
+  "emoji": "🥤"
+ },
+ {
+  "name": "Peach Iced Tea",
+  "price": 140,
+  "veg": true,
+  "category": "Cold Drinks",
+  "emoji": "🥤"
+ },
+ {
+  "name": "Mango Shake",
+  "price": 140,
+  "veg": true,
+  "category": "Cold Drinks",
+  "emoji": "🥤"
+ },
+ {
+  "name": "Water Bottle 500ml",
+  "price": 20,
+  "veg": true,
+  "category": "Water",
+  "emoji": "💧"
+ },
+ {
+  "name": "Water Bottle 1L",
+  "price": 30,
+  "veg": true,
+  "category": "Water",
+  "emoji": "💧"
+ },
+ {
+  "name": "Sparkling Water",
+  "price": 80,
+  "veg": true,
+  "category": "Water",
+  "emoji": "💧"
+ },
+ {
+  "name": "Gulab Jamun (2 pc)",
+  "price": 80,
+  "veg": true,
+  "category": "Desserts",
+  "emoji": "🍨"
+ },
+ {
+  "name": "Chocolate Brownie",
+  "price": 179,
+  "veg": true,
+  "category": "Desserts",
+  "emoji": "🍨"
+ },
+ {
+  "name": "Ice Cream Scoop",
+  "price": 70,
+  "veg": true,
+  "category": "Desserts",
+  "emoji": "🍨"
+ },
+ {
+  "name": "Tiramisu Jar",
+  "price": 199,
+  "veg": true,
+  "category": "Desserts",
+  "emoji": "🍨"
+ }
+]
