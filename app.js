@@ -1,0 +1,10 @@
+const express=require('express'),helmet=require('helmet'),cors=require('cors'),path=require('path'),{CORS_ORIGIN}=require('./config'),{nf}=require('./util');
+const app=express();app.set('trust proxy',1);
+app.use(helmet({contentSecurityPolicy:{directives:{...helmet.contentSecurityPolicy.getDefaultDirectives(),'script-src':["'self'","'unsafe-inline'"]}}}),cors({origin:CORS_ORIGIN==='*'?true:CORS_ORIGIN.split(',')}),express.json({limit:'200kb'}));
+app.use(express.static(path.join(__dirname,'..','web')));
+app.get('/health',(q,s)=>s.json({ok:true}));
+app.use('/api',require('./routes/public'),require('./routes/accounts'));
+app.use('/api/owner',require('./routes/owner'));
+app.use('/api',(q,s)=>nf(s));
+app.use((e,q,s,n)=>{console.error(e);s.status(500).json({error:'Server error'})});
+module.exports=app;
