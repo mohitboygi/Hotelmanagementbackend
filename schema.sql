@@ -1,3 +1,4 @@
+
 create table if not exists restaurant(
  id int primary key default 1 check(id=1),
  name text not null default 'The Daily Grind', phone text, email text, photo_url text,
